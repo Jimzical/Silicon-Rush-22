@@ -1,5 +1,5 @@
 # Silicon-Rush-22
-We Team DoctypeHTML plan to build a simple yet powerful Anti-Phising URL Checker Web Extension
+We Team DoctypeHTML plan to build a simple yet powerful Anti-Phising URL Checker Web Application
 which will read the URL of the suspisious website and check it against many parameters.
 Based on the analysis, the checker will grade the URL and warn the user accordingly.
 
